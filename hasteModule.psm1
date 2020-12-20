@@ -63,6 +63,6 @@ function New-HasteWithCopy {
 
     end {
         $covertedString = $dataArray | Out-String
-        Set-Haste $covertedString -CopyUrlToClipboard $true
+        New-Haste $covertedString -CopyUrlToClipboard $true
     }
 }
