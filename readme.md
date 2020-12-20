@@ -28,6 +28,20 @@ PS C:\Users\alex\Documents\PowerShell\Modules\hasteModule> ls | new-haste -CopyU
 https://hastebin.com/xiyiwewoje copied to clipboard!
 PS C:\Users\alex\Documents\PowerShell\Modules\hasteModule> start https://hastebin.com/xiyiwewoje
 ```
+---
+### Alias List
+
+
+Alias Name | Cmdlet |
+-----------|--------|
+yy | New-HasteWithCopy
+hastec | New-HasteWithCopy
+shc | New-HasteWithCopy
+hp | New-Haste
+haste | New-Haste
+shh | New-Haste
+
+-----
 
 ## Additional information
 
